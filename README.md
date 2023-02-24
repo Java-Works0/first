@@ -3,7 +3,7 @@
 ## Enviroment Monitoring System 
 
 ![Architecture Diagram](./Diagrams/Poster.png)
-
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=Java-Works0&show_icons=true)
 # Getting Started
 
 Nextjs and Nodejs can run independently using default data but any changes will be reverted back to defaults if page is refreshed. 
